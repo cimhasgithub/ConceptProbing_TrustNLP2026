@@ -117,6 +117,6 @@ If you use this dataset, please cite the associated paper above.
 
 For questions about the datasets or paper, please contact:
 
-**Name:** Mohamed Abdelwahab
+**Name:** Jonathan Rose, Professor of Electrical and Computer Engineering, University of Toronto
 
-**Email:** mo.abdelwahab@mail.utoronto.ca
+**Email:** jonathan.rose@utoronto.ca
