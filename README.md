@@ -95,10 +95,13 @@ The story datasets were created separately for the waxing-and-waning experiments
 If you use these datasets, please cite the associated paper:
 
 ```
-@article{abdelwahab2026thinking,
-  title={What are They Thinking? Delineation, Probing and Tracking of Concepts in LLMs},
-  author={Abdelwahab, Mohamed and Collins, Michelle Yu and Chen, Sihan and Zhao, Yi Cheng and Mahmood, Zafarullah and Zhu, Jiading and Ali, Soliman and Rose, Jonathan},
-  year={2026}
+@inproceedings{
+anonymous2026what,
+title={What are They Thinking? Delineation, Probing and Tracking of Concepts in {LLM}s},
+author={Anonymous},
+booktitle={The 6th Workshop on Trustworthy NLP},
+year={2026},
+url={https://openreview.net/forum?id=5YAWtv1JdR}
 }
 ```
 
