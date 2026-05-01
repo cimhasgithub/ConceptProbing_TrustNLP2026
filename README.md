@@ -112,3 +112,10 @@ This dataset is licensed under the Creative Commons Attribution 4.0 Internationa
 See the `LICENSE` file for details.
 
 If you use this dataset, please cite the associated paper above.
+
+## Contact
+
+For questions about the datasets or paper, please contact:
+
+**Name:** Mohamed Abdelwahab
+**Email:** mo.abdelwahab@mail.utoronto.ca
